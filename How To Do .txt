@@ -1,0 +1,3 @@
+Just open with Visual Studio (MineSweeper App.sln) and run the console app
+
+thanks.

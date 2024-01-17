@@ -1,0 +1,15 @@
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\bin\Debug\net6.0\MineSweeperApp.exe
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\bin\Debug\net6.0\MineSweeperApp.deps.json
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\bin\Debug\net6.0\MineSweeperApp.runtimeconfig.json
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\bin\Debug\net6.0\MineSweeperApp.dll
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\bin\Debug\net6.0\MineSweeperApp.pdb
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\obj\Debug\net6.0\MineSweeperApp.csproj.AssemblyReference.cache
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\obj\Debug\net6.0\MineSweeperApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\obj\Debug\net6.0\MineSweeperApp.AssemblyInfoInputs.cache
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\obj\Debug\net6.0\MineSweeperApp.AssemblyInfo.cs
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\obj\Debug\net6.0\MineSweeperApp.csproj.CoreCompileInputs.cache
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\obj\Debug\net6.0\MineSweeperApp.dll
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\obj\Debug\net6.0\refint\MineSweeperApp.dll
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\obj\Debug\net6.0\MineSweeperApp.pdb
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\obj\Debug\net6.0\MineSweeperApp.genruntimeconfig.cache
+C:\Users\praba\Desktop\New folder\Mynew\MineSweeper App\ConsoleApp1\obj\Debug\net6.0\ref\MineSweeperApp.dll
